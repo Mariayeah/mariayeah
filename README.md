@@ -9,7 +9,7 @@
   Desarrollo de videojuegos y aplicaciones interactivas con Unity y C# para experiencias inmersivas.
   
 - **Java y Android**  
-  Desarrollo de aplicaciones móviles nativas para Android utilizando Java. Integración de interfaces de usuario y servicios de Google.
+  Desarrollo de aplicaciones móviles para Android utilizando Java. Integración de interfaces de usuario y servicios de Google.
 
 - **Firebase**  
   Integración de Firebase para gestión de bases de datos en tiempo real, autenticación de usuarios y almacenamiento en la nube.
