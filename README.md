@@ -2,8 +2,8 @@
 
 ### Tecnologías Interactivas && Animaciones 3D, Juegos y Entornos Interactivos
 
-- **C++ y Arduino**  
-  Programación de microcontroladores y dispositivos IoT usando C++ y Arduino para automatización y control de hardware.
+- **C++ y FreeRTOS**  
+  Programación de microcontroladores y dispositivos IoT usando C++ y FreeRTOS para automatización y control de hardware.
 
 - **C# y Unity**  
   Desarrollo de videojuegos y aplicaciones interactivas con Unity y C# para experiencias inmersivas.
